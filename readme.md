@@ -36,6 +36,19 @@ So now you have your own repo great. So now what?
 
 Let's make a change to your local code and commit it.
 
+###EXERCISE FUN
+
+	Break into teams and make some commits
+	
+	and follow each other
+#note:
+
+	git status
+	
+	roll back a commit
+
+
+
 ###Step 2 - git history
 
 making a change and adding a commit.
@@ -44,7 +57,7 @@ push this commit to github
 
 Now take a look at the git log ... this shows your commit history
 
-###Step 3 - How to Branch
+<!-- ###Step 3 - How to Branch
 
 So saw you want to experiment without changing original files?
 
@@ -67,3 +80,4 @@ from the master branch
 	git merge name-of-branch-just-worked-on
 
 
+ -->
